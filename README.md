@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Top Languages](https://github-readme-stats.vercel.app/api?username=lucjastozek&show_icons=true&theme=swift)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucjastozek&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lucjastozek/lucjastozek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
