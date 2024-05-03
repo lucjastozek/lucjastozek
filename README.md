@@ -1,4 +1,9 @@
-
+### About me
+Hi! I'm a creative full-stack developer with a passion for problem-solving and creating user-friendly solutions.  
+You can check out my creative coding work [here](https://openprocessing.org/user/387695)!
+### My stack
+**Front-end**: JavaScript, TypeScript, React  
+**Back-end**: Node.js, Express.js, Java, Spring, Spring Boot, SQL, PostgreSQL  
 ### My projects
  - [Study Resources Catalog](#study-resources-catalog)
  - [Cringy Cards Generator](#cringy-cards-generator)
